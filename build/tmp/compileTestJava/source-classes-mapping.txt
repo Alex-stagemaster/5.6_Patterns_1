@@ -1,5 +1,0 @@
-ru/netology/data/DataGenerator.java
- ru.netology.data.DataGenerator
- ru.netology.data.DataGenerator$Registration
-ru/netology/test/DeliveryCardChangeTest.java
- ru.netology.test.DeliveryCardChangeTest
